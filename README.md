@@ -84,7 +84,7 @@ sender.setAPIKey('key');
 
 ```javascript
 var sender = new gcm.Sender({
-	key: 'my_api_key'
+	apiKey: 'my_api_key'
 });
 ```
 
